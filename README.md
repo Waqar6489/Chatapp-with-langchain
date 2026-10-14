@@ -4,3 +4,4 @@
 - UI Interface
 - Ask any question
 - Context window memory
+- Reply message as a chunk like word by word like other AI llm
